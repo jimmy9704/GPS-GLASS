@@ -28,7 +28,7 @@ To reproduce the reported results in our paper, follow these steps:
 Step1: download the trained models and put it in the root.
 Step2: change the data and model paths in configs/test_config.py
 Step3: run "python evaluate.py"
-Step4: change the ground data path in compute_iou.py
+Step4: change the ground truth data path in compute_iou.py
 Step5: run "python compute_iou.py"
 ```
 ## Training 
