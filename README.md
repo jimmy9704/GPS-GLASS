@@ -17,7 +17,7 @@ ACDC-night            |  Dark Zurich-val
 
 **ACDC**: Please follow the instructions in [ACDC](https://acdc.vision.ee.ethz.ch/) to download the training/val/test set.
 
-**NightCity+**: Please follow the instructions in [NightCity+](https://github.com/xdeng7/NightLab) to download the training/val/ set.
+**NightCity+**: Please follow the instructions in [NightCity+](https://github.com/xdeng7/NightLab) to download the training/val set.
 
 ## Testing
 To reproduce the reported results in our paper, follow these steps:
