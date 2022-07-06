@@ -7,7 +7,7 @@ ACDC-night            |  Dark Zurich-val
 
 ## Requirements
 * python3.7
-* pytorch==1.5.0
+* pytorch==1.9.0
 * cuda10.2
 
 ## Datasets
