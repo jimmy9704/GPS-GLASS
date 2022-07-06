@@ -1,4 +1,4 @@
 # GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data
 #ACDC-night
 
-![ACDC-night](./video/ACDC-night.gif) ![Dark_Zurich-val](./video/Dark_Zurich-val.gif)
+<img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/ACDC-night.gif" width="200"/> <img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/Dark_Zurich-val.gif" width="300"/>
