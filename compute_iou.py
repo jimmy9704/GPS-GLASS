@@ -65,7 +65,7 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--gt_dir', default='/path/to/Dark_Zurich_val_anon/', type=str, help='directory which stores CityScapes val gt images')
-    parser.add_argument('--pred_dir', default='./result/gps-glass_PSPNet', type=str, help='directory which stores CityScapes val pred images')
+    parser.add_argument('--pred_dir', default='./result/GPS-GLASS/PSPNet', type=str, help='directory which stores CityScapes val pred images')
     parser.add_argument('--devkit_dir', default='./dataset/lists', help='base directory of cityscapes')
     args = parser.parse_args()
     main(args)
