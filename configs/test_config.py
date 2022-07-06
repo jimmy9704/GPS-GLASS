@@ -11,7 +11,7 @@ SET = 'val'
 MODEL = 'PSPNet'
 RESTORE_FROM = './trained_models/gps-glass.pth'
 RESTORE_FROM_LIGHT = './trained_models/gps-glass_light.pth'
-SAVE_PATH = './checkpoints/'+MODEL
+SAVE_PATH = './result/GPS-GLASS/'+MODEL
 STD = 0.16
 
 
