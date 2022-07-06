@@ -20,7 +20,7 @@ ACDC-night            |  Dark Zurich-val
 **NightCity+**: Please follow the instructions in [NightCity+](https://github.com/xdeng7/NightLab) to download the training/val set.
 
 ## Testing
-Pretrained models can be downloaded form [here](https://www.dropbox.com/s/xmon1vnqsn2zvwz/trained_models.zip?dl=0)
+Pretrained models can be downloaded form [here](https://www.dropbox.com/s/xmon1vnqsn2zvwz/trained_models.zip?dl=0).
 
 
 To reproduce the reported results in our paper, follow these steps:
