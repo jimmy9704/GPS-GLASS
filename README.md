@@ -25,6 +25,7 @@ To reproduce the reported results in our paper, follow these steps:
 Step1: download the [trained models](https://www.dropbox.com/s/ozbfq6pntskzisb/trained_models.zip?dl=0) and put it in the root.
 Step2: change the data and model paths in configs/test_config.py
 Step3: run "python evaluation.py"
+Step2: change the ground data path in compute_iou.py
 Step4: run "python compute_iou.py"
 ```
 ## Training 
