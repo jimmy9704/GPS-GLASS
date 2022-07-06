@@ -1,2 +1,1 @@
-# GPS-GLASS
-GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data
+# GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data
