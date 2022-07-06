@@ -21,9 +21,11 @@ ACDC-night            |  Dark Zurich-val
 
 ## Testing
 Pretrained models can be downloaded form [here](https://www.dropbox.com/s/xmon1vnqsn2zvwz/trained_models.zip?dl=0)
+
+
 To reproduce the reported results in our paper, follow these steps:
 ```
-Step1: download the [trained models](https://www.dropbox.com/s/xmon1vnqsn2zvwz/trained_models.zip?dl=0) and put it in the root.
+Step1: download the trained models and put it in the root.
 Step2: change the data and model paths in configs/test_config.py
 Step3: run "python evaluate.py"
 Step4: change the ground data path in compute_iou.py
