@@ -31,10 +31,9 @@ Step4: run "python compute_iou.py"
 Training code will be available upon acceptance of our manuscript.
 
 ## Acknowledgments
-The code is based on [DANNet](https://github.com/W-zx-Y/DANNet), [AdaptSegNet](https://github.com/wasidennis/AdaptSegNet), [SFNet](https://github.com/cvlab-yonsei/SFNet).
+The code is based on [DANNet](https://github.com/W-zx-Y/DANNet), [AdaptSegNet](https://github.com/wasidennis/AdaptSegNet)
 
 ## Related works
 * [MGCDA](https://github.com/sakaridis/MGCDA)
 * [GCMA](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/GCMA_UIoU-Sakaridis+Dai+Van_Gool-ICCV_19.pdf)
 * [DANNet](https://github.com/W-zx-Y/DANNet)
-* [SFNet](https://github.com/cvlab-yonsei/SFNet)
