@@ -1,5 +1,5 @@
 # GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data
-
+Official implementation of GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data [arXiv](https://arxiv.org/abs/2207.13297)
 ##### visualization results:
 ACDC-night            |  Dark Zurich-val
 :-------------------------:|:-------------------------:
