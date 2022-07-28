@@ -3,7 +3,7 @@ Official implementation of GPS-GLASS: Learning Nighttime Semantic Segmentation U
 ##### visualization results:
 ACDC-night            |  Dark Zurich-val
 :-------------------------:|:-------------------------:
-<img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/ACDC-night.gif" width="300"/> |<img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/Dark_Zurich-val.gif" width="300"/>
+<img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/ACDC-night.gif" width="350"/> |<img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/Dark_Zurich-val.gif" width="350"/>
 
 ## Requirements
 * python3.7
