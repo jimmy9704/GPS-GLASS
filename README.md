@@ -1,6 +1,8 @@
 # GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data
 Official implementation of GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data [arXiv](https://arxiv.org/abs/2207.13297)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gps-glass-learning-nighttime-semantic/semantic-segmentation-on-dark-zurich)](https://paperswithcode.com/sota/semantic-segmentation-on-dark-zurich?p=gps-glass-learning-nighttime-semantic)
+
 #####  Overview:
 <img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/image/network.png" width="800"/>
 
