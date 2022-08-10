@@ -45,3 +45,14 @@ The code is based on [DANNet](https://github.com/W-zx-Y/DANNet), [AdaptSegNet](h
 * [MGCDA](https://github.com/sakaridis/MGCDA)
 * [GCMA](https://www.trace.ethz.ch/publications/2019/GCMA_UIoU/GCMA_UIoU-Sakaridis+Dai+Van_Gool-ICCV_19.pdf)
 * [DANNet](https://github.com/W-zx-Y/DANNet)
+
+## Citation
+```
+@article{lee2022gps,
+  title={GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data},
+  author={Lee, Hongjae and Han, Changwoo and Jung, Seung-Won},
+  journal={arXiv e-prints},
+  pages={arXiv--2207},
+  year={2022}
+}
+```
