@@ -9,6 +9,9 @@ ACDC-night            |  Dark Zurich-val
 :-------------------------:|:-------------------------:
 <img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/ACDC-night.gif" width="350"/> |<img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/Dark_Zurich-val.gif" width="350"/>
 
+## Web demo
+[Here](https://1a2b-163-152-183-111.jp.ngrok.io/) you can simulate simple SPAD guidance and visualize the results.
+
 ## Requirements
 * python3.7
 * pytorch==1.9.0
