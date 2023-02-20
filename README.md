@@ -10,7 +10,7 @@ ACDC-night            |  Dark Zurich-val
 <img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/ACDC-night.gif" width="350"/> |<img src="https://github.com/jimmy9704/GPS-GLASS/blob/main/video/Dark_Zurich-val.gif" width="350"/>
 
 ## Web demo
-[Here](https://931a-163-152-183-111.jp.ngrok.io/) you can upload your own image or select an example image to perform nighttime semantic segmentation using GPS-GLASS.
+[Here](https://7d4f-163-152-183-111.jp.ngrok.io/) you can upload your own image or select an example image to perform nighttime semantic segmentation using GPS-GLASS.
 
 ## Requirements
 * python3.7
