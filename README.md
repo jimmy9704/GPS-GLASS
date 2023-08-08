@@ -38,8 +38,6 @@ Step3: run "python evaluate.py"
 Step4: change the ground truth data path in compute_iou.py
 Step5: run "python compute_iou.py"
 ```
-## Training 
-Training code will be available upon acceptance of our manuscript.
 
 ## Acknowledgments
 The code is based on [DANNet](https://github.com/W-zx-Y/DANNet), [AdaptSegNet](https://github.com/wasidennis/AdaptSegNet) .
@@ -51,11 +49,10 @@ The code is based on [DANNet](https://github.com/W-zx-Y/DANNet), [AdaptSegNet](h
 
 ## Citation
 ```
-@article{lee2022gps,
-  title={GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data},
-  author={Lee, Hongjae and Han, Changwoo and Jung, Seung-Won},
-  journal={arXiv e-prints},
-  pages={arXiv--2207},
-  year={2022}
+@InProceedings{lee2023gps,
+    author    = {Lee, Hongjae and Han, Changwoo and Jung, Seung-Won},
+    title     = {GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
+    year      = {2023}
 }
 ```
