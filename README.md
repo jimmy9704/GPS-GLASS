@@ -48,7 +48,7 @@ The code is based on [DANNet](https://github.com/W-zx-Y/DANNet), [AdaptSegNet](h
 ```
 @InProceedings{lee2023gps,
     author    = {Lee, Hongjae and Han, Changwoo and Jung, Seung-Won},
-    title     = {GPS-GLASS: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data},
+    title     = {{GPS-GLASS}: Learning Nighttime Semantic Segmentation Using Daytime Video and GPS data},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
     year      = {2023}
 }
